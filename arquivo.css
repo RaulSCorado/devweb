@@ -1,0 +1,19 @@
+h1 {
+    color: aquamarine;
+}
+
+body {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 25%;
+    /* quero que nem o ok do chrome (se vc esqueceu como era, clique no Simples Botão.) */  
+}
+
+a {
+    color: cornflowerblue;
+}
